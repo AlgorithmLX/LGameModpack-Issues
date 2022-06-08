@@ -2,7 +2,7 @@
 
 name: MasterTech Issues
 
-about: Issues for MT Modpaxk
+about: Issues for MT Modpack
 
 title: ''
 
