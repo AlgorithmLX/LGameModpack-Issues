@@ -16,4 +16,10 @@ assignees: AlgorithmLX
 
 **Logs:** There your logs from gist.github.com or log file(lasted.log)
 
-**Modpack Version:** Please, provide there your Modpack Version
+**Version** 
+
+Minecraft: There MC version
+
+Forge: there Forge version
+
+Modpack: there Modpack version
