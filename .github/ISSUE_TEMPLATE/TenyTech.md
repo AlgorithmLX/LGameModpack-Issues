@@ -6,7 +6,7 @@ about: Issues for TenyTech Modpack
 
 title: ''
 
-labels: TenyTechIssues
+labels: TenyTech
 
 assignees: AlgorithmLX
 
