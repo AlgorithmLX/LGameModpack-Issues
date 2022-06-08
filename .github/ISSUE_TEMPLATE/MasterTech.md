@@ -6,7 +6,7 @@ about: Issues for MT Modpaxk
 
 title: ''
 
-labels: MasterTech Issue
+labels: MasterTechIssues
 
 assignees: AlgorithmLX
 
