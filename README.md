@@ -1,3 +1,3 @@
-# MTHB-Issuses
+# LGameIssues
 
-The MasterTech Issues.
+Issues for LGame's and AlgorithmLX's Modpack
