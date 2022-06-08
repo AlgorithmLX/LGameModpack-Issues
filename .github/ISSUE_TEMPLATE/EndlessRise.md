@@ -6,7 +6,7 @@ about: Issues for ER Modpack
 
 title: ''
 
-labels: EndlessRiseIssues
+labels: EndlessRise
 
 assignees: AlgorithmLX
 
