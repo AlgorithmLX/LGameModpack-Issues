@@ -6,7 +6,7 @@ about:  Your suggestions, and ideas for new modpack
 
 title: ''
 
-labels: Suggestion
+labels: enhancement
 
 assignees: AlgorithmLX
 
