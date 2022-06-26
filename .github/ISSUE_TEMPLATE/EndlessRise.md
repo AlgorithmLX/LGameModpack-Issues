@@ -8,7 +8,7 @@ title: ''
 
 labels: EndlessRise
 
-assignees: AlgorithmLX
+assignees: BarMaxx
 
 ---
 
@@ -23,3 +23,6 @@ Minecraft: There MC version
 Forge: there Forge version
 
 Modpack: there Modpack version
+
+//Don't touch me!
+@BarMaxx
