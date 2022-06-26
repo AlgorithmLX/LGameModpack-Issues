@@ -8,7 +8,7 @@ title: ''
 
 labels: MasterTech
 
-assignees: AlgorithmLX
+assignees: AlgorithmLX, HollowHorizon
 
 ---
 
@@ -23,3 +23,8 @@ Minecraft: There MC version
 Forge: there Forge version
 
 Modpack: there Modpack version
+
+//Don't touch me!!!
+
+@AlgorithmLX,
+@HollowHorizon
