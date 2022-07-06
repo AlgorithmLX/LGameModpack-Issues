@@ -18,7 +18,7 @@ assignees: BarMaxx
 
 **Version**
 
-Minecraft: There MC version
+Minecraft: 1.16.5
 
 Forge: there Forge version
 
