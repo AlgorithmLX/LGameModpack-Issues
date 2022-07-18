@@ -16,13 +16,11 @@ assignees: AlgorithmLX, HollowHorizon
 
 **Logs:** There your logs from gist.github.com or log file(lasted.log)
 
-**Version** 
+Minecraft Version: 1.12.2
 
-Minecraft: There MC version
+Forge Version: there Forge version (example: xx.xx.x.xxx)
 
-Forge: there Forge version
-
-Modpack: there Modpack version
+Modpack Version: there Modpack version (example: 1.3.10)
 
 //Don't touch me!!!
 
