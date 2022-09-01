@@ -6,7 +6,7 @@ about: Issues for GR Modpack
 
 title: ''
 
-labels: EndlessRise
+labels: GloomyRise
 
 assignees: BarMaxx
 
